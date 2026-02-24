@@ -1,0 +1,790 @@
+{
+  "Navbar": {
+    "home": "HOME",
+    "destinations": "DESTINATIONS",
+    "custom_tours": "CUSTOM TOURS",
+    "tours": "TOURS",
+    "contact": "CONTACT US",
+    "explore": "Explore the world"
+  },
+  "Hero": {
+    "plan_journey": "Plan Your Journey",
+    "slide0_title": "Small Island, Infinite Discoveries",
+    "slide0_subtitle": "In just a few hours, travel from cool mountain air to tropical beaches filled with endless possibilities.",
+    "slide1_title": "Sunsets, Safaris, and Stories to Remember",
+    "slide1_subtitle": "Experience breathtaking horizons, close encounters with wildlife, and flavors that stay with you forever.",
+    "slide2_title": "From Tea Trails to Turtle Shores",
+    "slide2_subtitle": "Wander through emerald tea plantations by day and watch sea turtles nest under moonlit skies.",
+    "slide3_title": "Where Golden Beaches Meet Ancient Wonders",
+    "slide3_subtitle": "From sunrise surf in Arugam Bay to sacred temples in Anuradhapura, every corner tells a story waiting to be lived.",
+    "slide4_title": "Wander Through the Beauty of Hillside Road",
+    "slide4_subtitle": "Drive along winding mountain paths, where rolling tea hills, cool breezes, and breathtaking views unfold at every turn.",
+    "slide5_title": "Slow Down. Sit by the Window. Let Sri Lanka Roll By",
+    "slide5_subtitle": "Open doors, cool breezes, and landscapes so beautiful they feel unreal."
+  },
+  "Tours": {
+    "main_title": "Srilanka Most Popular Tours",
+    "title1": "Yala National Park Safari",
+    "description1": "Discover Sri Lanka’s most famous wildlife sanctuary on an exciting safari adventure. Yala National Park is home to elephants, leopards, crocodiles, deer, and a wide variety of birds. Travel through diverse landscapes of jungle, grasslands, and lagoons while experiencing nature up close with expert guides.",
+    "title2": "Sigiriya & Dambulla Day Trip",
+    "description2": "Step into Sri Lanka’s ancient history with a visit to the iconic Sigiriya Rock Fortress and the sacred Dambulla Cave Temple. Climb Sigiriya to enjoy breathtaking views and explore centuries-old frescoes, then admire the beautifully painted Buddha statues inside Dambulla’s cave temples.",
+    "title3": "Tea Plantation Tour (Ella / Nuwara Eliya)",
+    "description3": "Explore the heart of Sri Lanka’s hill country surrounded by rolling green tea estates and cool mountain air. Learn how world-famous Ceylon tea is produced, visit traditional tea factories, and enjoy fresh tea tastings while taking in stunning landscapes and colonial charm.",
+    "title4": "Whale & Dolphin Watching (Mirissa / Trincomalee)",
+    "description4": "Set sail on an unforgettable ocean journey to witness majestic blue whales, playful dolphins, and other marine life in their natural habitat. These coastal waters are among the best places in the world for whale watching, offering a truly once-in-a-lifetime experience.",
+    "title5": "Galle Full-Day Journey Day Tour",
+    "description5": "Explore the historic coastal city of Galle, famous for its well-preserved Dutch Fort, charming streets, and ocean views. Walk along ancient ramparts, visit colonial buildings, enjoy local cafés, and relax on nearby beaches while soaking up the city’s unique heritage.",
+    "title6": "Cultural Triangle & History Tour",
+    "description6": "Travel through Sri Lanka’s cultural heartland and discover its deep spiritual and historical roots. Visit sacred temples, ancient capitals, and UNESCO-listed heritage sites, including the revered Temple of the Tooth, while learning about centuries-old traditions and royal civilizations.",
+    "title7": "Ella Scenic Wonders & Nine Arches",
+    "description7": "Experience the breathtaking beauty of Sri Lanka’s hill country in Ella. Visit lush waterfalls, misty viewpoints, and the famous Nine Arches Bridge, surrounded by tea plantations and green valleys. This tour is perfect for nature lovers, photographers, and relaxed explorers.",
+    "yala-national-park-safari": "Yala National Park Safari",
+    "sigiriya-dambulla-day-trip": "Sigiriya & Dambulla Day Trip",
+    "tea-plantation-tour": "Tea Plantation Tour",
+    "whale-dolphin-watching": "Whale & Dolphin Watching",
+    "galle-full-day-journey": "Galle Full-Day Journey",
+    "cultural-triangle-history": "Cultural Triangle History",
+    "ella-scenic-wonders": "Ella Scenic Wonders"
+  },
+  "Other": {
+    "explore": "EXPLORE",
+    "days": "Days",
+    "people": "People"
+  },
+  "Contact": {
+    "title": "Let's plan your dream tour",
+    "get_in_touch": "Get In Touch",
+    "your_name": "Your Name *",
+    "phone_number_placeholder": "Phone Number *",
+    "email_placeholder": "Email *",
+    "message": "Message",
+    "send_now": "SEND NOW",
+    "talk_to_us": "Talk To Us",
+    "email_label": "EMAIL",
+    "phone_label": "PHONE NUMBER",
+    "address_label": "ADDRESS",
+    "follow_us": "Follow Us:"
+  },
+  "HomeWelcome": {
+    "subtitle": "Sri Lanka Local Travel Agency",
+    "title": "From breathtaking day escapes to unforgettable extended journeys, Travel Vista transforms every moment into a meaningful experience.",
+    "description": "We specialize in personalized, authentic, and high-quality tours, carefully crafted to match your travel style and interests.\n\nWith deep local knowledge and trusted partners across the island, we seamlessly coordinate your adventures—from cultural heritage and wildlife safaris to scenic hill-country escapes and golden beaches. Our expert team ensures comfort, reliability, and attention to every detail, so you can relax and truly experience the real essence of Sri Lanka, hassle-free.",
+    "cta": "Plan Your Dream Journey"
+  },
+  "HomeDestinations": {
+    "subtitle": "Sri Lanka Tourism",
+    "title": "Discover Sri Lanka's Most Instagramable Destinations",
+    "view_all": "View All Destinations",
+    "dest_0": "Sigiriya Lion Rock\nSigiriya",
+    "dest_1": "Nine Arch Bridge\nElla",
+    "dest_2": "Kandy Cultural City\nKandy",
+    "dest_3": "Galle Dutch Fort\nGalle",
+    "dest_4": "Yala National Park\nYala"
+  },
+  "HomeGallery": {
+    "subtitle": "Gallery",
+    "title": "Can You Picture Yourself Here?",
+    "view_gallery": "View Gallery"
+  },
+  "HomeTours": {
+    "subtitle": "Top Sri Lanka Tours",
+    "title": "Find Your Dream Destination",
+    "discount": "20% OFF",
+    "days_nights_label": "DAYS / NIGHTS",
+    "rating_label": "RATING",
+    "explore_button": "Explore Tour"
+  },
+  "HomeAbout": {
+    "subtitle": "You Are in Good Hands",
+    "title": "Your Trusted Partner For Any Travel Round Tours",
+    "description": "We are dedicated to creating personalized travel experiences that exceed your expectations. Whether you are looking for a romantic getaway, family vacation, or adventure, we arrange the perfect trip. Our team of experts works tirelessly to plan your journey based on exactly your preferences.",
+    "bullet_1": "Crafting personalized travel experiences based on what you desire.",
+    "bullet_2": "Our experts guide you to the perfect vacation that matches your expectations.",
+    "bullet_3": "Making your adventure dreams come true around every corner of the world.",
+    "cta": "Plan My Trip Now"
+  },
+  "HomeReviews": {
+    "subtitle": "Don't Just Take Our Word For It",
+    "title": "What Our Happy Travelers Say",
+    "review_0_text": "Had an amazing experience! Our local guide was fantastic.",
+    "review_0_name": "Gavin H.",
+    "review_1_text": "Absolutely loved the scenic views and the personalized itinerary.",
+    "review_1_name": "Sarah L.",
+    "review_2_text": "The best trip I've ever had. Highly recommend this local agency.",
+    "review_2_name": "Mark D.",
+    "ta_title": "Over 100 Glowing Reviews on TripAdvisor",
+    "ta_desc": "Read what our travelers have to say about us on TripAdvisor.",
+    "ta_button": "TripAdvisor"
+  },
+  "HomeFAQ": {
+    "subtitle": "Booking Q&A",
+    "title": "Frequently Asked Questions",
+    "q0": "What is the best time to visit Sri Lanka?",
+    "a0": "Sri Lanka is a year-round destination! However, the best time to visit the west and south coasts and hill country is from December to April, while the east coast weather is best from May to October.",
+    "q1": "Do you provide airport transports?",
+    "a1": "Yes, we provide comfortable and reliable airport pickup and drop-off services for all our guests. Just let us know your flight details and we will handle the rest.",
+    "q2": "Is Sri Lanka safe for tourists?",
+    "a2": "Absolutely! Sri Lanka is known for its warm hospitality and is considered one of the safest travel destinations in Asia. Our guides are experienced and prioritize your safety at all times.",
+    "q3": "Will I have a dedicated driver and vehicle?",
+    "a3": "Yes, all our customized and planned tours come with a fully air-conditioned, comfortable vehicle and a dedicated, English-speaking professional chauffeur-guide.",
+    "q4": "Are the tours customizable?",
+    "a4": "Of course! While we have carefully crafted tour packages, you can customize any aspect of them. We tailor itineraries based on your budget, interests, and schedule.",
+    "q5": "Can you help with obtaining a visa to Sri Lanka?",
+    "a5": "While you must apply for your Electronic Travel Authorization (ETA) online, our team can provide you with all the necessary guidance and documentation needed for a smooth application process.",
+    "q6": "Do you offer tours in multiple languages?",
+    "a6": "Yes, we can arrange guides who speak languages such as German, French, Spanish, Italian, and more upon request and availability. English-speaking guides are standard.",
+    "q7": "How early should I book my tour?",
+    "a7": "We recommend booking at least 1-2 months in advance, especially during the peak seasons (December-April and July-August) to ensure accommodation and guide availability."
+  },
+  "CustomTours": {
+    "page_title": "Feel Free to Contact with us",
+    "section_title": "Plan Your Dream Journey",
+    "section_desc": "Let us help you create a personalized itinerary tailored to your unique travel preferences and interests.",
+    "form_title": "Customize Your Tour",
+    "error_title": "Error submitting form",
+    "error_db_missing": "The database table for custom tours is missing. Please run the SQL setup script.",
+    "success_title": "Success!",
+    "success_msg": "Your custom tour request has been submitted successfully!",
+    "full_name_label": "Full Name",
+    "full_name_placeholder": "John Doe",
+    "email_label": "Email",
+    "email_placeholder": "example@email.com",
+    "phone_label": "Phone Number",
+    "phone_placeholder": "+94 77 123 4567",
+    "start_date_label": "Preferred Start Date",
+    "duration_label": "Duration (days)",
+    "travelers_label": "Number of Travelers",
+    "interests_label": "Tour Interests / Preferences",
+    "select_interests": "Select interests",
+    "interest_cultural": "Cultural",
+    "interest_adventure": "Adventure",
+    "interest_wildlife": "Wildlife",
+    "interest_relaxation": "Relaxation",
+    "interest_historical": "Historical",
+    "interest_mixed": "Mixed Categories",
+    "budget_label": "Budget per person (optional)",
+    "budget_placeholder": "e.g., $500 - $1000",
+    "pickup_label": "Pickup Location",
+    "pickup_placeholder": "City, airport, or hotel name",
+    "requirements_label": "Special Requirements / Requests",
+    "requirements_placeholder": "Dietary restrictions, accessibility needs, special occasions, etc.",
+    "message_label": "Additional Message",
+    "message_placeholder": "Tell us more about your dream tour or any specific places you'd like to visit",
+    "submitting": "Submitting...",
+    "submit_button": "Submit Custom Tour Request"
+  },
+  "TourDetailsShared": {
+    "reviews": "{count} reviews",
+    "tour_included": "Tour Included",
+    "tour_excluded": "Tour Excluded",
+    "tour_plan": "Tour Plan",
+    "tour_plan_subtitle": "Your detailed day-by-day itinerary to make the most of your adventure.",
+    "best_ancient_views": "Best Views",
+    "best_ancient_views_subtitle": "Take a look at the beautiful moments captured at these incredible destinations.",
+    "location": "Location",
+    "speak_specialist": "Speak to our Travel",
+    "specialist": "Specialist",
+    "speak_specialist_subtitle": "Find the deep-sea, tour paradise or cultural symbol that is your Sri Lanka.",
+    "whatsapp": "WhatsApp Chat (24 Hours Open)",
+    "make_inquiry": "Make An Inquiry"
+  },
+  "TourDetails": {
+    "yala-national-park-safari": {
+      "title": "Yala National Park Safari",
+      "subtitle": "Wildlife Encounters at Sri Lanka's Most Famous Park",
+      "description": "Experience the ultimate wildlife safari in Yala National Park, home to the highest density of leopards in the world. Our expert trackers will take you deep into the bush to discover elephants, sloth bears, exotic birds, and crocodiles in their natural habitat. Explore the arid woodland, grassy plains, and coastal ecosystems.",
+      "includes": [
+        "Private Safari Jeep",
+        "Expert Tracker/Guide",
+        "National Park Entry Tickets",
+        "Light Refreshments",
+        "Hotel Pick-up and Drop-off"
+      ],
+      "excludes": [
+        "Personal Expenses",
+        "Tips and Gratuities",
+        "Accommodation"
+      ],
+      "plan": [
+        {
+          "day": "01",
+          "title": "Morning Safari & Forest Exploration",
+          "activities": [
+            "5:30 AM: Pick up from your hotel in Tissamaharama or Yala area.",
+            "6:00 AM: Enter Yala National Park as the gates open.",
+            "Experience the early morning active phase of wildlife, looking for leopards.",
+            "10:00 AM: Stop by the beach inside the park for a quick breakfast.",
+            "11:00 AM: Return to your hotel."
+          ]
+        }
+      ]
+    },
+    "sigiriya-dambulla-day-trip": {
+      "title": "Sigiriya & Dambulla Heritage Tour",
+      "subtitle": "Discover the wonders of Sigiriya & Dambulla with our experienced tour. Explore ancient rock fortresses, golden temples, and UNESCO cultural heritage.",
+      "description": "Our Sigiriya & Dambulla Heritage Tour takes you deep into Sri Lanka's rich history, blending nature, history and breathtaking landscapes. Walk through the legendary Sigiriya Rock Fortress, marvel at its ancient frescoes, and find inner peace at the Dambulla Cave Temple. This unforgettable journey is perfect for culture enthusiasts and nature lovers alike. With comfortable transport and expert guides, we promise an immersive experience. Book now to uncover the true magic of Sri Lanka’s ancient wonders!\n\nJoin our guided tour to Sigiriya & Dambulla and dive into the cultural heart of Sri Lanka. Book your adventure today to discover centuries-old history and breathtaking views.",
+      "includes": [
+        "Private A/C Transportation with Driver Guide",
+        "Entrance fees to Dambulla Cave Temple",
+        "Entrance Fees for Sigiriya Rock Fortress",
+        "On-Trip Refreshments"
+      ],
+      "excludes": [
+        "Personal Expenses",
+        "Any meals not mentioned",
+        "Gratuities & Tipping (Optional)"
+      ],
+      "plan": [
+        {
+          "day": "01",
+          "title": "Hotel Pick-Up & Departure",
+          "activities": [
+            "Morning pick up from your hotel in Kandy, Colombo, or Negombo.",
+            "Enjoy a scenic drive through the Sri Lankan countryside."
+          ]
+        },
+        {
+          "day": "02",
+          "title": "Sigiriya Rock Fortress Climb",
+          "activities": [
+            "Arrive at the world-famous Sigiriya Rock, commonly called the 8th Wonder of the World.",
+            "Explore the ancient water gardens, mirror wall, and lion paws before ascending.",
+            "Enjoy panoramic views from the top."
+          ]
+        },
+        {
+          "day": "03",
+          "title": "Traditional Sri Lankan Lunch",
+          "activities": [
+            "Stop at a local restaurant to enjoy an authentic rice and curry lunch."
+          ]
+        },
+        {
+          "day": "04",
+          "title": "Dambulla Cave Temple Visit",
+          "activities": [
+            "Explore the largest and best-preserved cave temple complex in Sri Lanka.",
+            "Admire over 150 Buddha statues and ancient murals covering the cave walls."
+          ]
+        },
+        {
+          "day": "05",
+          "title": "Return Journey",
+          "activities": [
+            "Relax during the drive back to your hotel, bringing unforgettable memories."
+          ]
+        }
+      ]
+    },
+    "tea-plantation-tour": {
+      "title": "Tea Plantation Tour (Ella / Nuwara Eliya)",
+      "subtitle": "Discover the Secrets of Ceylon Tea",
+      "description": "Immerse yourself in the emerald green landscapes of Sri Lanka's hill country. Follow the journey of a tea leaf from the lush fields picked by skilled pluckers to the bustling factory where it is graded and refined. Taste the world's finest Ceylon tea straight from the source while surrounded by panoramic views of the misty mountains.",
+      "includes": [
+        "Private transportation",
+        "Guided tea factory tour",
+        "Tea tasting session",
+        "Visit to a scenic viewpoint"
+      ],
+      "excludes": [
+        "Accommodation",
+        "Personal expenses"
+      ],
+      "plan": [
+        {
+          "day": "01",
+          "title": "Scenic Drive & Plantation Walk",
+          "activities": [
+            "Pick up from your hotel.",
+            "Drive through winding roads surrounded by tea estates.",
+            "Walk through the fields and interact with local tea pluckers."
+          ]
+        },
+        {
+          "day": "02",
+          "title": "Factory Tour & Tasting",
+          "activities": [
+            "Detailed guided tour inside a historic tea factory.",
+            "Learn about the withering, rolling, and drying processes.",
+            "Enjoy a freshly brewed cup of premium Ceylon tea."
+          ]
+        }
+      ]
+    },
+    "whale-dolphin-watching": {
+      "title": "Whale & Dolphin Watching (Mirissa)",
+      "subtitle": "A Thrilling Deep-Sea Ocean Safari",
+      "description": "Set sail across the warm waters of the Indian Ocean to witness the giants of the sea. Mirissa is one of the best places in the world to reliably spot Blue Whales, Sperm Whales, and pods of playful dolphins. This early morning deep-sea cruise is a must-do for nature and wildlife lovers.",
+      "includes": [
+        "Boat ticket and permits",
+        "Life jackets and safety briefing",
+        "Onboard refreshments and light breakfast",
+        "Sea sickness pills (on request)"
+      ],
+      "excludes": [
+        "Hotel transfers (can be arranged)",
+        "Personal expenses"
+      ],
+      "plan": [
+        {
+          "day": "01",
+          "title": "Ocean Safari Adventure",
+          "activities": [
+            "6:00 AM: Arrive at Mirissa Harbor and board the vessel.",
+            "6:30 AM: Set sail into the deep ocean.",
+            "Spend hours watching for water blowholes indicating Blue Whales.",
+            "11:00 AM: Return to the harbor after a successful expedition."
+          ]
+        },
+        {
+          "day": "02",
+          "title": "Beach Relaxation",
+          "activities": [
+            "Spend the rest of the day relaxing on Mirissa or Unawatuna beach.",
+            "Enjoy fresh seafood by the ocean."
+          ]
+        }
+      ]
+    },
+    "galle-full-day-journey": {
+      "title": "Galle Full-Day Journey Day Tour",
+      "subtitle": "Southern Coastal Delights and Colonial History",
+      "description": "Explore the historic streets and sunny beaches of the magnificent Galle Fort. Walk along the ramparts, visit the iconic lighthouse, and get lost in the narrow cobblestone streets lined with Dutch-colonial buildings, boutique shops, and cafes.",
+      "includes": [
+        "Transportation mapping the southern coast",
+        "Galle Fort guided walking tour",
+        "Visit to Turtle Hatchery"
+      ],
+      "excludes": [
+        "Meals",
+        "Personal shopping"
+      ],
+      "plan": [
+        {
+          "day": "01",
+          "title": "Coastal Stops & Galle Discovery",
+          "activities": [
+            "Morning departure, stopping at the Kosgoda Turtle Hatchery.",
+            "Arrive at Galle Fort and explore the lighthouse and ramparts.",
+            "Free time for shopping and dining in the Fort area.",
+            "Return trip along the scenic coastline."
+          ]
+        }
+      ]
+    },
+    "cultural-triangle-history": {
+      "title": "Cultural Triangle & History Tour",
+      "subtitle": "Journey Through the Sacred Heartland of Sri Lanka",
+      "description": "Immerse yourself in history going through the sacred Temples of the Tooth, ancient capitals of Anuradhapura and Polonnaruwa, and more. This multi-day journey highlights the peak of Sri Lanka's ancient civilizations.",
+      "includes": [
+        "Guided tours of major heritage sites",
+        "Comfortable air-conditioned transport",
+        "Site entrance tickets"
+      ],
+      "excludes": [
+        "Hotels",
+        "Personal expenses"
+      ],
+      "plan": [
+        {
+          "day": "01",
+          "title": "Anuradhapura & Mihintale",
+          "activities": [
+            "Explore the first ancient capital.",
+            "Visit the sacred Bodhi Tree."
+          ]
+        },
+        {
+          "day": "02",
+          "title": "Kandy Temple & Traditions",
+          "activities": [
+            "Visit the Temple of the Sacred Tooth Relic.",
+            "Enjoy a traditional cultural dance show."
+          ]
+        }
+      ]
+    },
+    "ella-scenic-wonders": {
+      "title": "Ella Scenic Wonders & Nine Arches",
+      "subtitle": "Majestic Mountains, Waterfalls, and the Iconic Railway",
+      "description": "Experience scenic views, waterfalls, and the timeless Nine Arches bridge in the breathtaking hill country. Hike up to Little Adam’s Peak for panoramic views stretching across the southern plains.",
+      "includes": [
+        "Guided hikes",
+        "Transport around Ella",
+        "Local train ticket"
+      ],
+      "excludes": [
+        "Meals",
+        "Personal purchases"
+      ],
+      "plan": [
+        {
+          "day": "01",
+          "title": "Little Adam's Peak & Nine Arches",
+          "activities": [
+            "Easy morning hike to Little Adam's Peak.",
+            "Visit the Nine Arches Bridge as the train passes.",
+            "Relax at a local cafe in Ella town."
+          ]
+        }
+      ]
+    }
+  },
+  "DestinationsPage": {
+    "hero_title": "Where to Go for Your Next Adventure",
+    "hero_breadcrumb_home": "Home",
+    "hero_breadcrumb_destinations": "Destinations",
+    "explore_tours": "Explore Our Tours",
+    "top_attractions": "Top Attractions Destinations",
+    "search_placeholder": "Search destinations by name or location...",
+    "showing_results": "Showing {count} destinations",
+    "showing_one_result": "Showing {count} destination",
+    "no_destinations": "No destinations found",
+    "try_adjusting": "Try adjusting your search or category filters.",
+    "explore_now": "Explore Now"
+  },
+  "Categories": {
+    "All": "All",
+    "Beach": "Beach",
+    "Mountain": "Mountain",
+    "City": "City",
+    "Cultural": "Cultural",
+    "Adventure": "Adventure"
+  },
+  "DestinationDetails": {
+    "sigiriya-rock-fortress": {
+      "slug": "sigiriya-rock-fortress",
+      "title": "Sigiriya Rock Fortress - Ancient Palace in the Sky",
+      "description_1": "A UNESCO World Heritage site, Sigiriya is a massive column of rock nearly 200 meters high. Built by King Kasyapa in the 5th century, it served as both a palace and a fortress.",
+      "description_2": "The site is renowned for its ancient frescoes of maidens, the mirror wall filled with ancient graffiti, and the monumental lion paws at the entrance to the final ascent.",
+      "highlight_1": "Climb the 1200 steps to the summit for breathtaking panoramic views of the jungle.",
+      "highlight_2": "Admire the ancient water gardens and intricate ancient plumbing systems.",
+      "highlight_3": "View the world-famous Sigiriya Frescoes painted inside a sheer rock face.",
+      "highlight_4": "Walk past the towering Lion Paws terrace before the final climb.",
+      "best_time": "Early morning (7:00 AM) or late afternoon to avoid the intense heat and crowds.",
+      "dress_code": "Light, comfortable clothing, sunscreen, and sturdy walking shoes or sneakers are highly recommended.",
+      "why_choose": "Sigiriya is often referred to as the Eighth Wonder of the World and is universally considered a must-visit for anyone traveling to Sri Lanka.",
+      "subtitle": "Sigiriya"
+    },
+    "ella": {
+      "slug": "ella",
+      "title": "Ella - The Mist-Covered Mountain Paradise",
+      "description_1": "Ella is a small, scenic town located in the highlands of Sri Lanka. Known for its laid-back atmosphere, cool climate, and stunning views of the Ella Gap.",
+      "description_2": "The region is surrounded by rolling tea plantations, cloud forests, and waterfalls, making it one of the top destinations for hiking and nature lovers.",
+      "highlight_1": "Hike the easy trail up Little Adam's Peak for incredible sunrise views.",
+      "highlight_2": "Watch trains pass over the iconic Nine Arches Bridge built entirely without steel.",
+      "highlight_3": "Take a refreshing dip at the base of the spectacular Ravana Falls.",
+      "highlight_4": "Enjoy relaxed evenings at the vibrant cafes and restaurants in Ella town.",
+      "best_time": "January to May when the weather is cool, dry, and offers the clearest views.",
+      "dress_code": "Layers are important. Warm clothes for chilly evenings, and comfortable hiking gear for daytime exploring.",
+      "why_choose": "Ella offers the perfect mix of adventure, relaxation, breath-taking natural scenery, and a vibrant traveler community.",
+      "subtitle": "Hill Town"
+    },
+    "kandy": {
+      "slug": "kandy",
+      "title": "Kandy - The Cultural Capital of Sri Lanka",
+      "description_1": "Kandy is a large city in central Sri Lanka. It's set on a plateau surrounded by mountains, which are home to tea plantations and biodiverse rainforests.",
+      "description_2": "The city's heart is scenic Kandy Lake (Bogambara Lake), which is popular for strolling. Kandy is famously known around the world as the home of the sacred Temple of the Tooth.",
+      "highlight_1": "Visit the Temple of the Sacred Tooth Relic, housing a tooth of the Buddha.",
+      "highlight_2": "Stroll around the beautiful man-made Kandy Lake at the center of the city.",
+      "highlight_3": "Explore the Royal Botanical Gardens in Peradeniya, home to over 4000 species of plants.",
+      "highlight_4": "Witness a vibrant traditional Kandyan cultural dance performance in the evening.",
+      "best_time": "December to April when the climate is cool and dry. The Esala Perahera festival usually takes place in July or August.",
+      "dress_code": "Modest clothing is required for temples (shoulders and knees must be covered), and white is the preferred color.",
+      "why_choose": "Kandy is the cultural and spiritual heart of Sri Lanka, offering a deep dive into the island's rich heritage and traditions.",
+      "subtitle": "Cultural Capital"
+    },
+    "galle-fort": {
+      "slug": "galle-fort",
+      "title": "Galle Fort - A Walk Through Colonial History",
+      "description_1": "Galle Fort, in the Bay of Galle on the southwest coast of Sri Lanka, was built first in 1588 by the Portuguese, and then extensively fortified by the Dutch during the 17th century.",
+      "description_2": "It is a historical, archaeological, and architectural heritage monument, which even after more than 432 years maintains a polished appearance and a vibrant, artsy atmosphere.",
+      "highlight_1": "Walk the ancient ramparts for spectacular views of the Indian Ocean, especially at sunset.",
+      "highlight_2": "Photograph the iconic Galle Lighthouse, one of the oldest in the country.",
+      "highlight_3": "Explore the narrow streets lined with Dutch-colonial buildings, boutique shops, and cafes.",
+      "highlight_4": "Visit the Dutch Reformed Church and the Historical Mansion Museum.",
+      "best_time": "December to April offers the best coastal weather, but the Fort is charming year-round.",
+      "dress_code": "Casual, breathable clothing. Comfortable walking shoes are essential for the cobblestone streets.",
+      "why_choose": "Galle Fort uniquely blends European architectural styles with South Asian traditions, offering a relaxed and historically rich atmosphere.",
+      "subtitle": "Galle"
+    },
+    "yala-national-park": {
+      "slug": "yala-national-park",
+      "title": "Yala National Park - Into the Wild",
+      "description_1": "Yala is Sri Lanka's most visited and second-largest national park. It consists of five blocks, though only two are open to the public.",
+      "description_2": "The park is renowned for its variety of wild animals. It is important for the conservation of Sri Lankan elephants, Sri Lankan leopards, and aquatic birds.",
+      "highlight_1": "Embark on an exciting 4x4 jeep safari to spot the elusive Sri Lankan leopard.",
+      "highlight_2": "Observe large herds of wild elephants roaming freely through the scrub jungle.",
+      "highlight_3": "Spot a vast array of bird species, including majestic peacocks and eagles.",
+      "highlight_4": "Experience the diverse landscapes, varying from open parkland to dense jungle.",
+      "best_time": "February to June offers the best wildlife viewing as animals congregate around water sources.",
+      "dress_code": "Neutral-colored, comfortable clothing. Bring a hat, sunglasses, and dust protection.",
+      "why_choose": "Yala offers one of the highest leopard densities in the world, making it a premier destination for wildlife enthusiasts and photographers.",
+      "subtitle": "Wildlife Safari"
+    },
+    "nuwara-eliya": {
+      "slug": "nuwara-eliya",
+      "title": "Nuwara Eliya - The 'Little England' of Sri Lanka",
+      "description_1": "Nuwara Eliya is a city in the tea country hills of central Sri Lanka. It is known for its temperate, cool climate and colonial-era bungalows.",
+      "description_2": "The naturally landscaped Hakgala Botanical Gardens display roses and tree ferns, while monkeys and blue magpies inhabit the nearby single-tree hill and Galway's Land National Park.",
+      "highlight_1": "Visit a working tea factory to learn about the production of world-famous Ceylon tea.",
+      "highlight_2": "Enjoy a scenic boat ride or peaceful walk around Lake Gregory.",
+      "highlight_3": "Admire the colonial architecture of the Grand Hotel and the Hill Club.",
+      "highlight_4": "Take a stroll through the vibrant Victoria Park in the center of town.",
+      "best_time": "February to May, with April being the peak season for the Nuwara Eliya season festivals.",
+      "dress_code": "Warm clothing is essential, especially in the evenings. Jackets and sweaters are recommended.",
+      "why_choose": "Nuwara Eliya offers a unique, cool escape with stunning landscapes and a fascinating glimpse into Sri Lanka's colonial tea-growing history.",
+      "subtitle": "Tea Estates"
+    },
+    "mirissa": {
+      "slug": "mirissa",
+      "title": "Mirissa - Sun, Surf, and Majestic Whales",
+      "description_1": "Mirissa is a small town on the south coast of Sri Lanka. Its beach and nightlife make it a popular tourist destination, but it's most famous for its marine life.",
+      "description_2": "Mirissa is one of the best places in the world to reliably see blue whales, sperm whales, and dolphins in their natural habitat.",
+      "highlight_1": "Embark on an early morning whale-watching cruise to see majestic blue whales.",
+      "highlight_2": "Relax on the pristine, crescent-shaped sandy beach and enjoy fresh seafood.",
+      "highlight_3": "Climb Coconut Tree Hill for a breathtaking sunset over the Indian Ocean.",
+      "highlight_4": "Enjoy the vibrant yet laid-back beachside nightlife.",
+      "best_time": "November to April offers the calmest seas for whale watching.",
+      "dress_code": "Beachwear and light, casual clothing. Sunscreen and hats are must-haves for boat trips.",
+      "why_choose": "Mirissa is the perfect destination for marine life enthusiasts and those seeking a picturesque, relaxed beach town vibe.",
+      "subtitle": "Whale Watching"
+    },
+    "arugam-bay": {
+      "slug": "arugam-bay",
+      "title": "Arugam Bay - Sri Lanka’s Surfing Capital",
+      "description_1": "Located on the dry and isolated east coast, Arugam Bay is a moon-shaped curl of soft sand that's become a major destination for surfers worldwide.",
+      "description_2": "Beyond the breaks, the area offers access to untouched national parks, ancient ruins, and a wonderfully relaxed, bohemian atmosphere.",
+      "highlight_1": "Catch some of the best waves in the world at the famous Main Point break.",
+      "highlight_2": "Take a lagoon safari in Pottuvil to spot crocodiles and abundant birdlife.",
+      "highlight_3": "Visit the nearby Kumana National Park for exceptional bird watching.",
+      "highlight_4": "Enjoy the laid-back cafes and reggae bars that line the main street.",
+      "best_time": "May to September, when the southeast monsoon creates perfect surfing conditions.",
+      "dress_code": "Casual beachwear, surf gear, and light clothing.",
+      "why_choose": "Arugam Bay is the ultimate destination for surfers and backpackers looking for great waves and a vibrant, chilled-out community.",
+      "subtitle": "Surfing Capital"
+    },
+    "trincomalee": {
+      "slug": "trincomalee",
+      "title": "Trincomalee - Pristine Beaches and Deep History",
+      "description_1": "Trincomalee, built on a peninsula on the east coast, boasts one of the world's finest natural deep-water harbors.",
+      "description_2": "It is home to the stunning Nilaveli and Uppuveli beaches, historic forts, and significant Hindu and Buddhist temples, offering a mix of culture and absolute relaxation.",
+      "highlight_1": "Relax on the powdery white sands of Nilaveli Beach.",
+      "highlight_2": "Snorkel or dive at Pigeon Island National Park, teeming with coral and marine life.",
+      "highlight_3": "Visit the historic Koneswaram Temple perched high above the ocean.",
+      "highlight_4": "Explore Fort Frederick, a Portuguese-built fort still in use today.",
+      "best_time": "May to October is ideal for beach activities and diving on the east coast.",
+      "dress_code": "Light beachwear. Modest dress required when visiting temples.",
+      "why_choose": "Trincomalee offers some of Sri Lanka's most beautiful, unspoiled beaches combined with profound historical and religious significance.",
+      "subtitle": "Crystal Clear Beaches"
+    },
+    "anuradhapura": {
+      "slug": "anuradhapura",
+      "title": "Anuradhapura - The Ancient Sacred City",
+      "description_1": "Anuradhapura is one of the ancient capitals of Sri Lanka, famous for its well-preserved ruins of ancient Lankan civilization.",
+      "description_2": "It is an unmissable destination for those interested in history and Buddhism, housing sprawling ancient dagobas, monasteries, and palaces.",
+      "highlight_1": "Pay respects at the Jaya Sri Maha Bodhi, the oldest historically authenticated tree in the world.",
+      "highlight_2": "Marvel at the massive Ruwanwelisaya stupa, an architectural marvel.",
+      "highlight_3": "Explore the expansive ruins of the Abhayagiri Monastery complex.",
+      "highlight_4": "Rent a bicycle to leisurely navigate the extensive archaeological park.",
+      "best_time": "May to September. Avoid full moon poya days if you want to avoid massive crowds of pilgrims.",
+      "dress_code": "Strictly modest clothing (covering shoulders and knees) preferably white, and easy-to-remove footwear for temple visits.",
+      "why_choose": "Anuradhapura provides a profound look into Sri Lanka's glorious ancient past and its deep-rooted Buddhist heritage.",
+      "subtitle": "Sacred City"
+    },
+    "polonnaruwa": {
+      "slug": "polonnaruwa",
+      "title": "Polonnaruwa - The Medieval Capital",
+      "description_1": "The second most ancient of Sri Lanka's kingdoms, Polonnaruwa was first declared the capital city by King Vijayabahu I.",
+      "description_2": "Today, it is a UNESCO World Heritage site known for its extensive, remarkably preserved ruins of palaces, bathing pools, and magnificent Buddha statues.",
+      "highlight_1": "Witness the breathtaking rock-cut Buddha statues at the Gal Vihara.",
+      "highlight_2": "Explore the ruins of the Royal Palace and the Audience Hall.",
+      "highlight_3": "Visit the Quadrangle, the most concentrated collection of ancient buildings.",
+      "highlight_4": "Cycle around the massive Parakrama Samudra, a vast ancient reservoir.",
+      "best_time": "May to October. Early morning or late afternoon visits are best to avoid the midday sun.",
+      "dress_code": "Modest clothing for religious sites. Comfortable walking shoes and sun protection are necessary.",
+      "why_choose": "Polonnaruwa offers a more compact and arguably better-preserved ancient city experience compared to Anuradhapura.",
+      "subtitle": "Ancient City"
+    },
+    "dambulla-cave-temple": {
+      "slug": "dambulla-cave-temple",
+      "title": "Dambulla Cave Temple - The Golden Rock Shrine",
+      "description_1": "A sacred pilgrimage site for 22 centuries, this cave monastery is the largest, best-preserved cave-temple complex in Sri Lanka.",
+      "description_2": "The Buddhist mural paintings (covering an area of 2,100 square meters) are of particular importance, as are the 157 statues.",
+      "highlight_1": "Admire the intricate ceiling murals tracing the life of Buddha.",
+      "highlight_2": "See the massive 14-meter reclining Buddha carved out of rock.",
+      "highlight_3": "Enjoy the panoramic views of the surrounding countryside from the rock summit.",
+      "highlight_4": "Visit the Golden Temple and the Buddhist Museum at the base.",
+      "best_time": "Early morning or late afternoon to avoid the heat during the climb.",
+      "dress_code": "Shoulders and knees must be covered. Hats must be removed, and shoes left at the entrance.",
+      "why_choose": "Dambulla offers an awe-inspiring display of ancient religious art and devotion in a visually stunning setting.",
+      "subtitle": "Dambulla"
+    },
+    "bentota": {
+      "slug": "bentota",
+      "title": "Bentota - The Water Sports Capital",
+      "description_1": "Bentota is a coastal town in Sri Lanka, located 65 kilometers south of Colombo. It offers a unique setting where a lagoon meets the Indian Ocean.",
+      "description_2": "It is the prime destination on the island for water sports enthusiasts, while also offering luxury resorts and beautiful, palm-fringed beaches.",
+      "highlight_1": "Engage in thrilling water sports like jet skiing, windsurfing, and wakeboarding.",
+      "highlight_2": "Take a tranquil boat safari through the mangroves of the Madu River.",
+      "highlight_3": "Visit the brief garden, the beautiful former home of landscape architect Bevis Bawa.",
+      "highlight_4": "Relax at high-end spas and luxury Ayurvedic retreats.",
+      "best_time": "November to April for the best beach and ocean conditions.",
+      "dress_code": "Beachwear and casual clothing. Active wear if participating in water sports.",
+      "why_choose": "Bentota is the perfect blend of high-adrenaline water sports and luxurious beachside relaxation.",
+      "subtitle": "Water Sports"
+    },
+    "hikkaduwa": {
+      "slug": "hikkaduwa",
+      "title": "Hikkaduwa - Corals, Turtles, and Nightlife",
+      "description_1": "Hikkaduwa is a small town on the south coast of Sri Lanka. It was the country's first beach resort and remains extremely popular.",
+      "description_2": "It is famous for its coral sanctuary, consistent surfing waves, and a lively atmosphere with numerous beach bars and seafood restaurants.",
+      "highlight_1": "Snorkel in the shallow waters of the Hikkaduwa Coral Sanctuary.",
+      "highlight_2": "Interact with giant sea turtles that frequently visit the shoreline.",
+      "highlight_3": "Catch good, consistent waves perfect for beginner and intermediate surfers.",
+      "highlight_4": "Enjoy the vibrant beachside restaurant and nightlife scene.",
+      "best_time": "November to April provides the best snorkeling visibility and surfing conditions.",
+      "dress_code": "Casual beachwear. Snorkel gear is useful (though easily rentable locally).",
+      "why_choose": "Hikkaduwa offers a lively, classic beach holiday experience with easy access to incredible marine life.",
+      "subtitle": "Coral Reefs"
+    },
+    "udawalawe": {
+      "slug": "udawalawe",
+      "title": "Udawalawe - The Elephant Sanctuary",
+      "description_1": "Udawalawe National Park lies on the boundary of Sri Lanka's wet and dry zones. The park was created to provide a sanctuary for wild animals displaced by the construction of the Udawalawe Reservoir.",
+      "description_2": "It is arguably the best place in Sri Lanka to see wild elephants year-round, thanks to the vast reservoir that constantly attracts them.",
+      "highlight_1": "Take a jeep safari for guaranteed sightings of wild elephants.",
+      "highlight_2": "Visit the Udawalawe Elephant Transit Home, which rehabilitates orphaned elephant calves.",
+      "highlight_3": "Spot a rich variety of birdlife, including birds of prey and water birds.",
+      "highlight_4": "Enjoy the beautiful, open landscape surrounding the massive reservoir.",
+      "best_time": "Year-round, but May to September is particularly good for elephant sightings.",
+      "dress_code": "Neutral-colored clothing, hats, and sunscreen for the safari.",
+      "why_choose": "If seeing wild elephants up close in their natural habitat is your priority, Udawalawe is unmatched.",
+      "subtitle": "Elephant Safari"
+    },
+    "jaffna": {
+      "slug": "jaffna",
+      "title": "Jaffna - The Vibrant Northern Capital",
+      "description_1": "Jaffna, the capital city of the Northern Province, offers a distinctively different experience from the rest of Sri Lanka, deeply influenced by Tamil culture.",
+      "description_2": "After years of isolation, it's opening up, revealing gorgeous colonial architecture, fascinating temples, and incredible, spicy cuisine.",
+      "highlight_1": "Explore the impressive star-shaped Jaffna Fort built by the Dutch.",
+      "highlight_2": "Visit the vibrant and incredibly detailed Nallur Kandaswamy Hindu Temple.",
+      "highlight_3": "Take a boat trip to the remote islands of Delft and Nainativu.",
+      "highlight_4": "Sample unique, fiery Jaffna cuisine, known for its incredible seafood dishes.",
+      "best_time": "January to May provides dry weather, though the region is accessible year-round.",
+      "dress_code": "Modest clothing. Men must remove shirts to enter certain Hindu temple sanctums.",
+      "why_choose": "Jaffna offers an authentic, off-the-beaten-path cultural experience and cuisine quite different from the southern regions.",
+      "subtitle": "Unique Heritage"
+    },
+    "horton-plains": {
+      "slug": "horton-plains",
+      "title": "Horton Plains - The High-Altitude Wilderness",
+      "description_1": "Horton Plains is a protected national park located in the central highlands. This plateau at an altitude of 2,100–2,300 meters is rich in biodiversity.",
+      "description_2": "The landscape consists of wild grasslands interspersed with patches of thick montane cloud forests. It is a highly popular destination for trekkers.",
+      "highlight_1": "Hike to the dramatic 'World’s End', a sheer drop of over 800 meters.",
+      "highlight_2": "Trek to the beautiful Baker's Falls.",
+      "highlight_3": "Spot herds of Sambar deer grazing in the plains.",
+      "highlight_4": "Enjoy the unique, surreal atmosphere of the misty cloud forests.",
+      "best_time": "January to March, arriving before 9 AM to avoid the mist obscuring World's End.",
+      "dress_code": "Sturdy walking shoes, leeches socks, and very warm clothing (it can be freezing early morning).",
+      "why_choose": "Horton Plains offers one of Sri Lanka's most iconic and otherworldly hikes.",
+      "subtitle": "National Park"
+    },
+    "kataragama": {
+      "slug": "kataragama",
+      "title": "Kataragama - The Sacred Pilgrimage Town",
+      "description_1": "Kataragama is a pilgrimage town sacred to Buddhist, Hindu, and indigenous Vedda people of Sri Lanka. People from South India also go there to worship.",
+      "description_2": "The town comes alive with devotion, particularly during the evening poojas (offerings) and the grand July festival, focusing on the deity Skanda-Murukan.",
+      "highlight_1": "Experience the intense devotion and vibrant energy of the evening pooja.",
+      "highlight_2": "Visit the ancient Kiri Vehera stupa located near the main temple.",
+      "highlight_3": "Observe the daily rituals of pilgrims bathing in the Menik Ganga (river).",
+      "highlight_4": "Witness the spectacular Esala Perahera festival if visiting in July/August.",
+      "best_time": "July and August for the vibrant festivals, or year-round for an authentic spiritual experience.",
+      "dress_code": "Strictly modest clothing, predominantly white, required for all temple visits.",
+      "why_choose": "Kataragama offers a rare and powerful glimpse into the unifying spiritual practices of Sri Lanka's different faiths.",
+      "subtitle": "Pilgrimage Site"
+    },
+    "negombo": {
+      "slug": "negombo",
+      "title": "Negombo - The Coastal Gateway",
+      "description_1": "Located just a short drive from the international airport, Negombo is often the first or last stop for travelers.",
+      "description_2": "It is a bustling coastal city known for its centuries-old fishing industry, wide sandy beaches, and significant Catholic heritage, earning it the nickname 'Little Rome'.",
+      "highlight_1": "Visit the bustling early morning fish market (Lellama).",
+      "highlight_2": "Take a boat ride along the historic Dutch Canal.",
+      "highlight_3": "Relax on the broad, sandy stretches of Negombo Beach.",
+      "highlight_4": "Admire the ornate Catholic churches dotting the city.",
+      "best_time": "December to April for the best beach weather.",
+      "dress_code": "Casual daywear and beachwear. Modest dress when entering churches.",
+      "why_choose": "Negombo is a convenient, culturally interesting, and relaxing beachstop close to the airport.",
+      "subtitle": "Lagoon Views"
+    },
+    "colombo": {
+      "slug": "colombo",
+      "title": "Colombo - The Vibrant Commercial Capital",
+      "description_1": "Colombo is the commercial capital and largest city of Sri Lanka. It is a bustling, cosmopolitan metropolis that blends its colonial past with rapid modern development.",
+      "description_2": "The city offers an array of experiences from exploring historic forts and vibrant street markets to enjoying high-end dining and shopping.",
+      "highlight_1": "Stroll down Galle Face Green at sunset and sample local street food.",
+      "highlight_2": "Explore the historic colonial architecture in the Fort district.",
+      "highlight_3": "Visit the striking Gangaramaya Temple and Seema Malaka on Beira Lake.",
+      "highlight_4": "Shop and dine at the beautifully restored Dutch Hospital Precinct.",
+      "best_time": "January to March for dry weather, though it's a bustling destination year-round.",
+      "dress_code": "Smart-casual for dining and shopping. Modest clothing for temple visits.",
+      "why_choose": "Colombo provides a modern, energetic counterpoint to Sri Lanka's ancient sites and beaches, offering excellent dining, shopping, and urban exploring.",
+      "subtitle": "Vibrant Capital"
+    }
+  },
+  "DestinationDetailsUI": {
+    "important_info": "Important Information",
+    "best_time": "Best Time to Visit",
+    "dress_code": "Recommended Dress Code",
+    "why_choose": "Why Choose This Destination",
+    "speak_specialist": "Speak to our Travel Specialist",
+    "specialist_desc": "Find the deep-sea, tour paradise or cultural symbol that is your Sri Lanka.",
+    "whatsapp": "WhatsApp Chat (24 Hours Open)",
+    "make_inquiry": "Make An Inquiry",
+    "social_links": "Follow Us",
+    "back_to_destinations": "Back to Destinations"
+  },
+  "Footer": {
+    "tours": "Tours",
+    "destinations": "Destinations",
+    "sitemap": "Sitemap",
+    "home": "Home",
+    "menu_destinations": "Destinations",
+    "menu_tours": "Tours",
+    "custom_tours": "Custom Tours",
+    "contact_us": "Contact Us",
+    "office": "Office",
+    "address": "2727 Ocean Road, Hikkaduwa, Sri Lanka",
+    "newsletter": "Newsletter",
+    "email_placeholder": "Email address",
+    "subscribe": "Subscribe",
+    "tours_inquiry": "Tours Inquiry",
+    "social": "Social"
+  },
+  "DestMegaMenu": {
+    "popular_destinations": "Popular Destinations",
+    "cant_decide": "Can't Decide? Let us help!",
+    "personalized_itinerary": "Get a personalized itinerary based on your interests",
+    "view_all": "View All Destinations",
+    "plan_trip": "Plan My Trip",
+    "d1_name": "Whale & Dolphin Watching",
+    "d1_badge": "MOST POPULAR",
+    "d2_name": "TEMPLE OF THE TOOTH",
+    "d2_badge": "CULTURAL",
+    "d3_name": "GALLE DUTCH FORT",
+    "d3_badge": "HERITAGE",
+    "d4_name": "YALA NATIONAL PARK",
+    "d4_badge": "WILDLIFE",
+    "d5_name": "ELLA ROCK",
+    "d5_badge": "ADVENTURE",
+    "d6_name": "MIRISSA BEACH",
+    "d6_badge": "TRENDING"
+  },
+  "SEO": {
+    "home_title": "Sri Lanka Tours & Travels - Travel Vista",
+    "home_desc": "Discover the unseen beauty of Sri Lanka with our exclusive tours, custom trips, and premium guides.",
+    "dest_title": "Explore Top Destinations in Sri Lanka",
+    "dest_desc": "Find the best places to visit in Sri Lanka, from misty mountains and pristine beaches to ancient cultural ruins."
+  }
+}
